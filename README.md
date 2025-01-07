@@ -1,0 +1,1 @@
+This repository showcases coding projects completed for STAT 479 Neural Networks in Fall 2024. The two projects shown relate to the use of feed-forward neural network (FNN) and convolutional neural network (CNN). Both were used for classification purposes associated with cervical cancer prediction. 
